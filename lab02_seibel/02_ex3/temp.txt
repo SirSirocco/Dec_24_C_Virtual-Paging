@@ -1,2 +1,0 @@
-Escreva a mensagem do dia: 
-Mensagem armazenada com sucesso!7000 4096
